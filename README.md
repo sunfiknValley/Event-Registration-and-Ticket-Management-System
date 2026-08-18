@@ -1,1 +1,2 @@
 # Event-Registration-and-Ticket-Management-System
+This project presents the development of a Java Swing–based Event Registration and Ticket Management System. The application allows users to browse events, register for them, and receive ticket confirmations. It supports three roles: Admin, Organizer, and Attendee. SQLite is used as the database to store all system data including users, events, registrations, and tickets. The system integrates GUI design, database connectivity, validation, and exception handling to ensure proper functionality. 
